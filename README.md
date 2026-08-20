@@ -16,6 +16,10 @@ straight to it.
 ## Word-doc hyperlink pattern
 
     https://davidh801.github.io/timor-leste-sp-figures/#tab_sample_composition
+    https://davidh801.github.io/timor-leste-sp-figures/#tab_deservingness_items
+    https://davidh801.github.io/timor-leste-sp-figures/#fig_deservingness_distributions
+    https://davidh801.github.io/timor-leste-sp-figures/#tab_governance_items
+    https://davidh801.github.io/timor-leste-sp-figures/#fig_governance_distributions
     https://davidh801.github.io/timor-leste-sp-figures/#fig_citizen_vs_govt_aggregate
     https://davidh801.github.io/timor-leste-sp-figures/#fig_citizen_vs_govt_per_hh
 
