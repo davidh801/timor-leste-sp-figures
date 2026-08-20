@@ -2,22 +2,22 @@
 
 Companion HTML dashboard for the working paper **Adjudicating past sacrifice
 and present need: Deservingness and the legitimacy of post-conflict
-distribution** (Pruce, McLoughlin, Hudson).
+distribution** (Pruce, Mcloughlin, Hudson).
 
 The `index.html` file is a self-contained page (base64-embedded PNGs, no
 external dependencies) that hosts the figures the Word draft refers to.
-Each figure has a stable anchor id so hyperlinks in the Word doc jump
+Each figure has a stable anchor id so hyperlinks in the Word draft jump
 straight to it.
 
 ## Live URL
 
-Once GitHub Pages is enabled on this repo, the dashboard is served at:
-
-    https://<your-username>.github.io/<repo-name>/
+    https://davidh801.github.io/timor-leste-sp-figures/
 
 ## Word-doc hyperlink pattern
 
-    https://<your-username>.github.io/<repo-name>/#fig_citizen_vs_govt_aggregate
+    https://davidh801.github.io/timor-leste-sp-figures/#tab_sample_composition
+    https://davidh801.github.io/timor-leste-sp-figures/#fig_citizen_vs_govt_aggregate
+    https://davidh801.github.io/timor-leste-sp-figures/#fig_citizen_vs_govt_per_hh
 
 The anchor ids are shown in small text at the bottom of each figure panel
 on the dashboard itself.
